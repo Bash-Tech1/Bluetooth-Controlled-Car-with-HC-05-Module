@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Bluetooth-Controlled-Car
+Copyright (c) 2024 [Your Name]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18,4 +18,11 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. 
+SOFTWARE.
+
+Additional Terms:
+1. This project is intended for educational and personal use.
+2. Commercial use requires explicit permission from the copyright holder.
+3. Any modifications to this project should be clearly documented.
+4. The copyright holder is not responsible for any damages or injuries resulting from the use of this project.
+5. Users are responsible for ensuring their implementation complies with local laws and regulations. 
